@@ -2,7 +2,6 @@
 .qcoder/
 
 # Server
-.env
 node_modules/
 dist/
 .DS_Store
@@ -14,3 +13,4 @@ frontend/node_modules/
 # Contracts
 contracts/target/
 contracts/Cargo.lock
+config.bat
